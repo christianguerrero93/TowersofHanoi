@@ -1,4 +1,4 @@
-# TowersofHanoi
+# Towers of Hanoi
 
 The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules:
 
